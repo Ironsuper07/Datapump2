@@ -1,0 +1,165 @@
+﻿ID;iddocente;nomedocente;ClasseConcorso_1;Sesso;TipoContratto;Email
+1;P0000;Bologna Daniela;***;F;T.I.;
+2;P0001;Bruno Annalisa;***;F;T.I.;
+3;P0002;Ciccarese Corrado;***;M;T.I.;
+4;P0003;De Filippis Antonella;***;F;***;antonella.defilippis
+5;P0004;Manaresi Maria;***;F;T.I.;
+6;P0005;*Bartoli Tamara;;;;
+7;P0006;*Bertozzi Pamela;;;;
+8;P0007;*Capelli Marco;;;;
+9;P0008;*Fattori Ornella;;;;
+10;P0009;*Magno Raffaella;;;;
+11;P0010;A040_2;***;***;***;
+12;P0011;Agazzoni Paola;AB24;F;T.I.;
+13;P0012;Albani Cinzia;A034;F;T.I.;
+14;P0013;Albano Diego;***;M;***;
+15;P0014;Albertini Filippo;B016;M;T.I.;
+16;P0015;Amati Gian Armando;A042;M;T.I.;gianarmando.amati
+17;P0016;Arcangeli Mauro;A037;M;T.I.;
+18;P0017;Arcangeli Milva;A026;F;T.I.;
+19;P0018;Assisi Luigi;A046;M;T.I.;
+20;P0019;Aureli Damiano;B015;M;T.I.;
+21;P0020;Balducci Ivana;DRSS;F;T.I.;
+22;P0021;Barlini Laura;A026;F;T.I.;
+23;P0022;Bartolomeoli Ilenia;A012;F;T.I.;
+24;P0023;Bedetti Mariagrazia;A041;F;T.I.;
+25;P0024;Bellavista Maurizio;B017;M;T.D.;
+26;P0025;Bianchi Riccardo;B016;M;T.I.;
+27;P0026;Bizzocchi Loretta;A012;F;T.I.;
+28;P0027;Bocci Luigi;B012;M;T.I.;
+29;P0028;Bognanni Annamaria Rosaria;A037;F;T.I.;annamaria.bognanni
+30;P0029;Borzi Emanuele;A050;M;T.I.;
+31;P0030;Bracalente Laura;A034;F;T.I.;
+32;P0031;Calesini Alberto;A026;M;T.I.;
+33;P0032;Capogreco Giuseppina;A034;F;***;
+34;P0033;Caprini Anna Paola;AB24;F;***;annapaola.caprini
+35;P0034;Caruso Antonio;A048;M;T.I.;
+36;P0035;Casadei Ivonne;A026;F;T.I.;
+37;P0036;Casali Floriana;A012;F;T.I.;
+38;P0037;Casali Thomas;A041;M;T.I.;
+39;P0038;Catellani Paola;AB24;F;T.I.;
+40;P0039;Cenci Gaetano;B015;M;T.I.;
+41;P0040;Cermaria Virginia;B014;F;T.I.;
+42;P0041;Cevoli Gabriele;B015;M;T.I.;
+43;P0042;Coden Marina;A054;F;***;
+44;P0043;Conti Daniela;A040;F;***;
+45;P0044;Conti Maurizio;B016;M;T.I.;
+46;P0045;Conti Valentina;A026;F;T.I.;
+47;P0046;Corabi Marialisa;A012;F;T.I.;
+48;P0047;Corbelli Fabio;A041;M;T.I.;
+49;P0048;Corsaro Sabina;A012;F;***;
+50;P0049;D'Aniello Giovanna;B016;F;T.D.;giovanna.daniello
+51;P0050;Dante Ivano;A034;M;T.I.;
+52;P0051;De Crescenzo Ilaria;A037;F;T.I.;ilaria.decrescenzo
+53;P0052;De Mercurio Carmelina;A037;F;T.I.;carmelina.demercurio
+54;P0053;De Rosa Silvio;A040;M;T.I.;silvio.derosa
+55;P0054;De Silvestri Moreno;A040;M;T.I.;moreno.desilvestri
+56;P0055;Del Corso Clemente;A050;M;T.I.;clemente.delcorso
+57;P0056;Del Vecchio Donato;A040;M;T.I.;donato.delvecchio
+58;P0057;Di Dedda Maria Rosaria;A012;F;T.I.;mariarosaria.didedda
+59;P0058;Di Nauta Milena;A026;F;T.I.;milena.dinauta
+60;P0059;Di Padova Leonardo;A040;M;T.I.;leonardo.dipadova
+61;P0060;Diotallevi Silvia;A012;F;***;
+62;P0061;Drudi Stefano;B017;M;T.I.;
+63;P0062;Edvardsson Rebecka;AB24;F;T.I.;
+64;P0063;Esposito Alaia Rosalia;A046;F;T.I.;rosalia.espositoalaia
+65;P0064;Fabbri Claudio;A037;M;T.I.;
+66;P0065;Fabbri Piero;A026;M;T.I.;
+67;P0066;Facciotto Paolo;***;M;***;
+68;P0067;Fantini Fiorenzo;A048;M;T.I.;
+69;P0068;Farolfi Lucia;A050;F;T.I.;
+70;P0069;Fiorani Alessandro;B014;M;T.I.;
+71;P0070;Fiorini Giuseppina;A012;F;T.I.;
+72;P0071;Flamigni Fabio;B012;M;T.I.;
+73;P0072;Forlivesi Marco;A037;M;T.I.;
+74;P0073;Franchini Manuela;B012;F;T.I.;
+75;P0074;Gaudino Angela;A012;F;T.I.;
+76;P0075;Gengotti Pierangelo;A026;M;T.I.;
+77;P0076;Giovagnoli Roberto;A026;M;T.I.;
+78;P0077;Giovanardi Gabriele;A020;M;T.I.;
+79;P0078;Giovannini Amedeo;B015;M;T.I.;
+80;P0079;Giovannini Valentina;AB24;F;T.I.;
+81;P0080;Gliori Giovanni;A040;M;T.I.;
+82;P0081;Gobbi Fabrizio;A048;M;T.I.;
+83;P0082;Gori Chiara;A020;F;T.I.;
+84;P0083;Gregori Donatella;A012;F;T.I.;
+85;P0084;Gregori Isella;AB24;F;T.I.;
+86;P0085;Grifone Angela;AB24;F;T.I.;
+87;P0086;Gualandris Kevin;A040;M;T.I.;
+88;P0087;Iandiorio Mirco;A042;M;***;
+89;P0088;Incanti Elisabetta;A034;F;T.I.;
+90;P0089;Iorio Arnaldo;B017;M;T.D.;
+91;P0090;Lilla Stefano;A040;M;T.I.;
+92;P0091;Lo Cascio Giulio;A034;M;T.I.;giulio.locascio
+93;P0092;Lodi Stefania;A020;F;T.I.;
+94;P0093;Lombardi Laura;A037;F;T.I.;
+95;P0094;Lunardini Valentina;A012;F;T.I.;
+96;P0095;Lussana Monica;B016;F;T.I.;
+97;P0096;Macrelli Antonella;A012;F;T.I.;
+98;P0097;Magnani Maria Angela;DRSS;F;T.I.;mariaangela.magnani
+99;P0098;Marconi Luca;A040;M;T.I.;
+100;P0099;Marino Maria;AB24;F;T.I.;
+101;P0100;Mazza Anna;***;F;***;
+102;P0101;Miranda Elvira;A046;F;T.I.;
+103;P0102;Montani Danilo;B015;M;T.I.;
+104;P0103;Mosconi Fiammetta;AB24;F;T.I.;
+105;P0104;Mosconi Paolo;B015;M;T.I.;
+106;P0105;Mussoni Mauro;DRSS;M;T.I.;
+107;P0106;Naldi Arianna;B012;F;T.I.;
+108;P0107;Nanni Alessandra;A041;F;T.I.;
+109;P0108;Neri Sara;A034;F;***;
+110;P0109;Nobile Mimma;A012;F;T.I.;
+111;P0110;Paci Valentina;A012;F;T.I.;
+112;P0111;Pagnotta Antonio;B017;M;T.I.;
+113;P0112;Palma Luisa;A048;F;T.I.;
+114;P0113;Palmieri Sergio;A037;M;T.I.;
+115;P0114;Paoli Luciano;A041;M;T.D.;
+116;P0115;Parise Amelia;A034;F;T.I.;
+117;P0116;Petrangolini Paolo;A041;M;T.D.;
+118;P0117;Pierdicca Gilberto;A042;M;T.I.;
+119;P0118;Pompei Gian Gustavo;A042;M;T.I.;giangustavo.pompei
+120;P0119;Pompizii Onorio;A041;M;T.I.;
+121;P0120;Puccini Dema;AB24;F;T.I.;
+122;P0121;Raduazzo Raffaella;B016;F;T.D.;
+123;P0122;Rago Antonella;A020;F;T.I.;
+124;P0123;Ranieri Alessandro;A026;M;T.D.;
+125;P0124;Rauseo Maria Luigia;B016;F;T.D.;marialuigia.rauseo
+126;P0125;Rocchi Ilaria;A042;F;T.I.;
+127;P0126;Roselli Annalisa;B017;F;T.I.;
+128;P0127;Rossi Marinella;A012;F;T.I.;
+129;P0128;Rossini Isabella;A026;F;T.I.;
+130;P0129;Sanchini Marco;A040;M;T.D.;
+131;P0130;Sanchini Pamela;A041;F;T.I.;
+132;P0131;Sardelli Roberto;A037;M;T.I.;
+133;P0132;Scarpellini Andrea;A020;M;***;
+134;P0133;Scarpone Marina Catia;A012;F;T.I.;marinacatia.scarpone
+135;P0134;Stargiotti Loris;A026;M;T.I.;
+136;P0135;Succi Enzo;A040;M;T.I.;
+137;P0136;Taddei Gabriele;A040;M;T.I.;
+138;P0137;Tamburini Cristina;A012;F;T.I.;
+139;P0138;Temeroli Gianluca;B014;M;T.I.;
+140;P0139;Tentoni Luca;DRSS;M;***;
+141;P0140;Tiboni Fabio;A026;M;T.I.;
+142;P0141;Tomei Valentina;A012;F;T.I.;
+143;P0142;Tonini Andrea;B003;M;T.I.;
+144;P0143;Tosi Elisabetta;A048;F;T.I.;
+145;P0144;Tosi Giacomo Amedeo;A046;M;T.I.;giacomoamedeo.tosi
+146;P0145;Tosi Tiziano;A048;M;T.I.;
+147;P0146;Tricarico Tina;A048;F;T.I.;
+148;P0147;Ugolini Giuseppe;A041;M;T.I.;
+149;P0148;Urbinati Fabrizio;A048;M;T.I.;
+150;P0149;Urbinati Lucia;A012;F;T.I.;
+151;P0150;Valenti Lorenzo;A046;M;T.I.;
+152;P0151;Vallone Antonio Emanuele;A041;M;T.I.;antonioemanuele.vallone
+153;P0152;Vanzolini Robin;A026;M;T.I.;
+154;P0153;Venturi Sabrina;A012;M;T.I.;
+155;P0154;Villa Fabio;A026;M;T.I.;
+156;P0155;Viscione Maria Antonietta;B016;F;T.I.;mariaantonietta.viscione
+157;P0156;Vitale Christian;A042;M;T.I.;
+158;P0157;Zaghini Vandi Antonella;AB24;F;T.I.;antonella.zaghinivandi
+159;P0158;Zamagni Barbara;AB24;F;T.I.;
+160;P0159;Zani Nando;A037;M;T.I.;
+161;P0160;Zanni Paolo;A034;M;T.I.;
+162;P0161;Zurla Paolo;A037;M;T.I.;
+163;;Campedelli Genny;***;F;T.D.;
+164;;Grillo Gianmario;***;M;T.D.;
